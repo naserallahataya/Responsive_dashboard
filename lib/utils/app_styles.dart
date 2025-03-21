@@ -8,14 +8,14 @@ abstract class AppStyles {
   );
 
   static const TextStyle styleMedium16 = TextStyle(
-    color: Color(0xFF064060),
+    color: Color(0xFF064061),
     fontSize: 16,
     fontWeight: FontWeight.w500,
     fontFamily: 'Montserrat',
   );
 
   static const TextStyle styleSemiBold16 = TextStyle(
-    color: Color(0xFF064061),
+    color: Color(0xFF4EB7F2),
     fontSize: 16,
     fontWeight: FontWeight.w600,
     fontFamily: 'Montserrat',
