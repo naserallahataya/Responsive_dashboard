@@ -12,15 +12,8 @@ class AllExpensess extends StatelessWidget {
         color: Colors.white,
 
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-
-        
-      ),child:  Column(
-        children: [
-ALlExpensessHeader(),
-
-        ],
       ),
+      child: Column(children: [ALlExpensessHeader()]),
     );
   }
 }
-
